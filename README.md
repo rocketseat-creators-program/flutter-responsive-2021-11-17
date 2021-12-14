@@ -1,16 +1,19 @@
+<img src="https://i.imgur.com/XSFK6Br.png" />
+
 # flutter_responsive
 
-A new Flutter project.
+Projeto criado para o Workshop do DoWhile 2021 da Rocketseat, com o Tema:
+## Uma code base várias plataformas com flutter
 
-## Getting Started
+Neste workshop é apresentado uma breve introdução sobre o Flutter, e mostrado como podemos construir aplicações responsivas para diversas plataformas, usando o LayoutBuilder, tendo destaques duas técnicas Mobile-first e Break-points.
 
-This project is a starting point for a Flutter application.
+Apresentado por [Alessandro Dutra de Andrade (Cachopaweb)][1].
 
-A few resources to get you started if this is your first Flutter project:
+## Expert
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| [<img src="https://github.com/cachopaweb.png" width="75px;"/>][1] |
+| :-: |
+|[Creator][1]|
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+[1]: https://github.com/cachopaweb
